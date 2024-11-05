@@ -1,0 +1,10 @@
+{
+  "name": "USDT Tether USD",                  // Название токена
+  "symbol": "USDT",                           // Символ токена
+  "decimals": 6,                              // Количество знаков после запятой
+  "description": "USDT Tether USD is a stablecoin pegged to the US dollar.",
+  "website": "https://tether.to/",            // Веб-сайт вашего токена или проекта
+  "explorer": "https://polygonscan.com/token/0x0e70f45fb4aab5c303d5142e2862b8424555314c", // Ссылка на токен в PolygonScan
+  "status": "active",                         // Статус токена
+  "id": "0x0e70f45fb4aab5c303d5142e2862b8424555314c"                               // Адрес контракта вашего токена
+}
